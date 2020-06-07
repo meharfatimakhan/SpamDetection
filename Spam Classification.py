@@ -2,7 +2,7 @@
 """
 Created on Mon Jun  1 21:10:14 2020
 
-@author: Dell
+@author: Mehar Fatima Khan
 """
 import time
 start_time = time.time()
