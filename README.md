@@ -1,6 +1,9 @@
 # Spam Detection -  Text Classification
 
-This code classifies an email as ham or spam through training by training on Enron Emails dataset.
+This code classifies an email as ham or spam through the use of Naive Bayes Algorithm.
+
+Dataset:  Enron emails
+
 
 ## Evaluation Metrics
 
