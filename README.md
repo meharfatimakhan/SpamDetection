@@ -19,13 +19,13 @@ Number of Spam Training Files: 1496
 Total Training Files: 4361 + 1496 = 5857
 
 
-### Proababilities
+### Probabilities
 
 Ham Probability: 0.7445791360764896
 
-Spam Proabability: 0.2554208639235103
+Spam Probability: 0.2554208639235103
 
-The formula for the calculation of probabilities is as as follows:
+Formulas for the calculation of probabilities:
 
 ```
 Ham Probability = (Number of Ham Training Files)/(Number of Ham Training Files + Number of Spam Training Files)
@@ -39,7 +39,7 @@ Spam Probability = (Number of Spam Training Files)/(Number of Ham Training Files
 
 Log of Ham Probability: -0.29493613824701587
 
-Log of Spam Proabability: -1.3648426475553597
+Log of Spam Probability: -1.3648426475553597
 
 The formula for the calculation of log of these probabilities is as as follows:
 
